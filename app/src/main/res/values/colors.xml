@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#483434</color>
+    <color name="colorPrimaryDark">#55000000</color>
+    <color name="colorAccent">#6B4F4F</color>
+    <color name="text_primary">#EED6C4</color>
+    <color name="text_secondary">#FFF3E4</color>
+    <color name="start_gradient">#6B4F4F</color>
+    <color name="end_gradient">#483434</color>
+    <color name="background_transparent_black">#55000000</color>
+    <color name="indicator_selected">#FFFFFF</color>
+    <color name="indicator_default">#77CCCCCC</color>
+</resources>
